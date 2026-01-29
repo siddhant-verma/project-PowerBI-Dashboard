@@ -1,3 +1,8 @@
+PROJECT LINK -
+https://indianinstituteoftechnol299-my.sharepoint.com/:u:/g/personal/25mb0093_iitism_ac_in/IQC2UtlZH1WqR5xk0HLZxpCcAZoLZN0TeTPkDcfkcXoCba8?e=CgeDu1
+
+-------------------
+
 🔹 Project Overview
 Analyzed an HR dataset to study employee attrition, workforce demographics, job satisfaction, and compensation trends. The objective was to identify key attrition drivers and generate data-driven insights to support HR decision-making.
 
@@ -39,4 +44,5 @@ Certain departments and roles require targeted retention strategies.
 🔹 Business Impact
 Enabled quick identification of high-risk attrition segments.
 Reduced manual analysis time by ~60% through automated dashboards.
+
 Delivered clear, actionable insights to support retention and compensation planning.
