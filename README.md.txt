@@ -1,5 +1,5 @@
 PROJECT LINK -
-https://indianinstituteoftechnol299-my.sharepoint.com/:u:/g/personal/25mb0093_iitism_ac_in/IQC2UtlZH1WqR5xk0HLZxpCcAZoLZN0TeTPkDcfkcXoCba8?e=CgeDu1
+< https://indianinstituteoftechnol299-my.sharepoint.com/:u:/g/personal/25mb0093_iitism_ac_in/IQC2UtlZH1WqR5xk0HLZxpCcAZoLZN0TeTPkDcfkcXoCba8?e=CgeDu1 >
 
 -------------------
 
@@ -46,3 +46,4 @@ Enabled quick identification of high-risk attrition segments.
 Reduced manual analysis time by ~60% through automated dashboards.
 
 Delivered clear, actionable insights to support retention and compensation planning.
+
